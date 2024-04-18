@@ -1,0 +1,4 @@
+.dashboard {
+    border-right: 1px solid var(--grey-color, 0.8);
+    width: 79.9%
+  }
